@@ -12,18 +12,24 @@
 
 #
 
-## Quantitative Analysis Results:
+## Quantitative Analysis:
 
-### Performance Analysis - 
-### Risk Analysis - 
-### Rolling Statistics - 
-### Rolling Statistics Challenge - 
+### Performance Analysis - Completed.
+### Risk Analysis - Completed. Tiger Global Mgmt and Berkshire Hathaway are riskier than the S&P500.
+### Rolling Statistics - Completed.
+### Rolling Statistics Challenge - Completed.
+
+#
+
+## Sharpe Ratios:
+### Completed.  Algo 1 outperforms all, while Algo 2 outperforms all with the exception of Berkshire.
 
 #
 
 ## Custom Portfolio Results:
 
 ### How did my portfolio do?
+#### My portfolio outperforms AAPL and COST, but not GOOG.
 
-### Refer to homework_4.txt from GitHub for result export.
+
 
